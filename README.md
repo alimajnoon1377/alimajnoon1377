@@ -11,7 +11,11 @@
 
 
 ###
-
+<h3 align="left">👋 Hi, I’m @alimajnoon1377</h3>
+<h3 align="left">👀 I’m interested in Machine learning and Deep Learning</h3>
+<h3 align="left">🌱 I’m currently learning Machine learning & Deep learning & cybersecurity</h3>
+<h3 align="left">💞️ I’m looking to collaborate</h3>
+<h3 align="left">📫 How to reach me: my email is alimajnoon3@gmail.com</h3>
 
 
 ###
